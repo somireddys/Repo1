@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 58AB-A971
-
- Directory of C:\Users\seshu.somireddy\Desktop\MyProject
-
-02/07/2017  10:31 PM    <DIR>          .
-02/07/2017  10:31 PM    <DIR>          ..
-02/07/2017  10:31 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  177,656,627,200 bytes free
+change 1
